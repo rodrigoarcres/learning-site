@@ -1,0 +1,23 @@
+html {
+	background-color:#15485e;
+}
+
+
+body {
+	text-align: center;
+	color:white;
+	
+
+}
+
+form{
+	background-color:#041c36;
+	width: 40%;
+	margin: 0 auto;
+	padding: 20px;
+	border-top:4px solid #0d607c;
+	border-bottom:5px solid #0d607c;
+
+}
+
+#men{color:white;}
